@@ -1,8 +1,12 @@
 body{
     background-color: rgb(25, 20, 20);
     font-family: "Helvetica", sans-serif;
+    color: white;
 }
 h1{
-    color: rgb(30, 215, 96);
     text-align: center;
+    color: black;
+}
+#testa{
+    background-color: white;
 }
